@@ -1,0 +1,9 @@
+/* Ex-00-incorreto.ptg */
+
+programa
+  inteiro: número, r;
+  imprima ("Digite um nro:");
+  leia (numero);
+  r := raiz (numero);
+  imprima(r);
+fim_programa
